@@ -1,0 +1,10 @@
+[
+  {
+    "package": "dobson",
+    "oncran": true
+  },
+  {
+    "package": "season",
+    "oncran": true
+  }
+]
